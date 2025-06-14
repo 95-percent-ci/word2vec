@@ -14,8 +14,19 @@ Smaller version of dataset will be used with reduced vocabulary size
 
 ## 3. Setup and Installation
 
-Set your environment by
+### 3.1. Clone Repo
 
 ```bash
 git clone https://github.com/95-percent-ci/word2vec.git 
+```
+
+### 3.2. Create Environment
+```bash
+uv venv your_project_name
+```
+
+### 3.3. Install Packages
+
+```bash
+uv install pyproject.toml
 ```
