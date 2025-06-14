@@ -30,3 +30,8 @@ uv venv your_project_name
 ```bash
 uv install pyproject.toml
 ```
+
+
+## 4. Notes
+
+Handwritten notes are provided within `notes` folder. I plan to create a blog later on.
